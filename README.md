@@ -15,7 +15,7 @@ python3 essai.py
 
 
 Pour le portage sur switch
-Copier le contenu du dossier switch tel quel sur la carte sd de votre nintendo switch et démarrer le jeu à partir du menu principal.
+Copier le contenu du dossier switch tel quel sur la carte sd de votre nintendo switch et démarrer le jeu à partir du menu principal, le jeu s'executera dés que l'on lancera PyNX à partir du homebrew de la console.
 
 
 
